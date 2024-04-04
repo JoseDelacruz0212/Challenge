@@ -1,0 +1,129 @@
+.principal-Group{
+  width: 80%;
+  min-width: 1000px;
+  background-color: white;
+  height: 500px;
+  border-radius: 10px;
+  box-sizing: border-box;
+  padding: 10px 20px 10px 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.principal-Group h2{
+  font-size: 18px;
+}
+
+/* ESTILOS PARA EL BLOQUE DE DATOS */
+.principal-Group
+.data-block{
+  min-height: 350px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  box-sizing: border-box;
+  gap: 20px;
+  padding: 10px;
+}
+
+.data-block
+.label-input{
+  display: flex;
+  flex-direction: column;
+  width: 30%;
+  height: 85px;
+  margin-bottom: 5px;
+}
+
+.data-block .label-input
+label{
+  font-size: 12px;
+  margin-bottom: 5px;
+  color: #635e5e;
+}
+
+.data-block .label-input
+input{
+  width: 95%;
+  height: 30px;
+  border: 1px solid #635e5e;
+  border-radius: 5px;
+  font-size: 13px;
+  text-indent: 10px;
+}
+
+.data-block .label-input
+select{
+  width: 95%;
+  height: 30px;
+  border: 1px solid #635e5e;
+  border-radius: 5px;
+  font-size: 13px;
+  text-indent: 10px;
+}
+
+
+.data-block .label-input
+p{
+  font-size: 10px;
+  color: red;
+}
+
+.data-block .label-input
+p.enlace{
+  color: #635e5e;
+}
+.data-block .label-input
+input:focus{
+  border-color: #635e5e;
+}
+
+
+/* ESTILOS PARA EL FOOTER */
+.principal-Group
+.footer{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+
+}
+
+.principal-Group .footer
+span{
+  font-size: 15px;
+  color: #827e7e;
+  margin-top: 10px;
+}
+
+
+.principal-Group .footer
+.buttons{
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  height: 45px;
+}
+
+.principal-Group .footer .buttons
+p{
+  font-size: 14px;
+  color: red;
+  text-align: right;
+}
+
+.principal-Group .footer .buttons
+button{
+  width: 90px;
+  height: 45px;
+  border-radius: 10px;
+  border: none;
+}
+
+.principal-Group .footer .buttons
+button:hover{
+  background-color: #B4B4B4;
+}

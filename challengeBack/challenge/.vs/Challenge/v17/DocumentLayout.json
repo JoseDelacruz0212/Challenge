@@ -1,0 +1,447 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jose E\\Desktop\\Prueba\\challengeBack\\challenge\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD3A45D7-4100-4FE2-88C2-58B5234A602E}|Diligencias\\Challenge.csproj|c:\\users\\jose e\\desktop\\prueba\\challengeback\\challenge\\diligencias\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD3A45D7-4100-4FE2-88C2-58B5234A602E}|Diligencias\\Challenge.csproj|solutionrelative:diligencias\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD3A45D7-4100-4FE2-88C2-58B5234A602E}|Diligencias\\Challenge.csproj|c:\\users\\jose e\\desktop\\prueba\\challengeback\\challenge\\diligencias\\release\\diligencias.deps.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BD3A45D7-4100-4FE2-88C2-58B5234A602E}|Diligencias\\Challenge.csproj|solutionrelative:diligencias\\release\\diligencias.deps.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD3A45D7-4100-4FE2-88C2-58B5234A602E}|Diligencias\\Challenge.csproj|c:\\users\\jose e\\desktop\\prueba\\challengeback\\challenge\\diligencias\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD3A45D7-4100-4FE2-88C2-58B5234A602E}|Diligencias\\Challenge.csproj|solutionrelative:diligencias\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD3A45D7-4100-4FE2-88C2-58B5234A602E}|Diligencias\\Challenge.csproj|c:\\users\\jose e\\desktop\\prueba\\challengeback\\challenge\\diligencias\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD3A45D7-4100-4FE2-88C2-58B5234A602E}|Diligencias\\Challenge.csproj|solutionrelative:diligencias\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD3A45D7-4100-4FE2-88C2-58B5234A602E}|Diligencias\\Challenge.csproj|c:\\users\\jose e\\desktop\\prueba\\challengeback\\challenge\\diligencias\\context\\challengecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD3A45D7-4100-4FE2-88C2-58B5234A602E}|Diligencias\\Challenge.csproj|solutionrelative:diligencias\\context\\challengecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD3A45D7-4100-4FE2-88C2-58B5234A602E}|Diligencias\\Challenge.csproj|c:\\users\\jose e\\desktop\\prueba\\challengeback\\challenge\\diligencias\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BD3A45D7-4100-4FE2-88C2-58B5234A602E}|Diligencias\\Challenge.csproj|solutionrelative:diligencias\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD3A45D7-4100-4FE2-88C2-58B5234A602E}|Diligencias\\Challenge.csproj|c:\\users\\jose e\\desktop\\prueba\\challengeback\\challenge\\diligencias\\properties\\publishprofiles\\folderprofile.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{BD3A45D7-4100-4FE2-88C2-58B5234A602E}|Diligencias\\Challenge.csproj|solutionrelative:diligencias\\properties\\publishprofiles\\folderprofile.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Jose E\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\Services\\AuthService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Jose E\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\Controllers\\ContactController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Jose E\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\Controllers\\AuthController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Jose E\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Jose E\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\Controllers\\UserController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Jose E\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\Services\\UserService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Jose E\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\Services\\GroupService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Jose E\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\Models\\DB\\Users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Jose E\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\Controllers\\GroupController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Jose E\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\Models\\DB\\Group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Jose E\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\Services\\ContactService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Jose E\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\Models\\DB\\Contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Jose E\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\Models\\DB\\ContactGroupRelationship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Jose E\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\Filter\\JwtAuthorizationFilter .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Jose E\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\Models\\DB\\Role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Jose E\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Jose E\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\Models\\DB\\UserRoleRelationship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Jose E\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\Context\\ChallengeContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Jose E\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\Properties\\PublishProfiles\\FolderProfile.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Jose E\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Jose E\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\Models\\DB\\UserGroupRelationship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Jose E\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\Challenge.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jose E\\Desktop\\Prueba\\challengeBack\\challenge\\Diligencias\\Program.cs",
+              "RelativeDocumentMoniker": "Diligencias\\Program.cs",
+              "ToolTip": "C:\\Users\\Jose E\\Desktop\\Prueba\\challengeBack\\challenge\\Diligencias\\Program.cs",
+              "RelativeToolTip": "Diligencias\\Program.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAAAFEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T00:03:08.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Diligencias.deps.json",
+              "DocumentMoniker": "C:\\Users\\Jose E\\Desktop\\Prueba\\challengeBack\\challenge\\Diligencias\\release\\Diligencias.deps.json",
+              "RelativeDocumentMoniker": "Diligencias\\release\\Diligencias.deps.json",
+              "ToolTip": "C:\\Users\\Jose E\\Desktop\\Prueba\\challengeBack\\challenge\\Diligencias\\release\\Diligencias.deps.json",
+              "RelativeToolTip": "Diligencias\\release\\Diligencias.deps.json",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-04T00:03:00.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\Jose E\\Desktop\\Prueba\\challengeBack\\challenge\\Diligencias\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "Diligencias\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\Jose E\\Desktop\\Prueba\\challengeBack\\challenge\\Diligencias\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "Diligencias\\Controllers\\ContactController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T00:02:13.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Jose E\\Desktop\\Prueba\\challengeBack\\challenge\\Diligencias\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Diligencias\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Jose E\\Desktop\\Prueba\\challengeBack\\challenge\\Diligencias\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Diligencias\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T00:02:07.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChallengeContext.cs",
+              "DocumentMoniker": "C:\\Users\\Jose E\\Desktop\\Prueba\\challengeBack\\challenge\\Diligencias\\Context\\ChallengeContext.cs",
+              "RelativeDocumentMoniker": "Diligencias\\Context\\ChallengeContext.cs",
+              "ToolTip": "C:\\Users\\Jose E\\Desktop\\Prueba\\challengeBack\\challenge\\Diligencias\\Context\\ChallengeContext.cs",
+              "RelativeToolTip": "Diligencias\\Context\\ChallengeContext.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T00:02:03.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Jose E\\Desktop\\Prueba\\challengeBack\\challenge\\Diligencias\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Diligencias\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Jose E\\Desktop\\Prueba\\challengeBack\\challenge\\Diligencias\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Diligencias\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-04T00:01:59.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FolderProfile.pubxml",
+              "DocumentMoniker": "C:\\Users\\Jose E\\Desktop\\Prueba\\challengeBack\\challenge\\Diligencias\\Properties\\PublishProfiles\\FolderProfile.pubxml",
+              "RelativeDocumentMoniker": "Diligencias\\Properties\\PublishProfiles\\FolderProfile.pubxml",
+              "ToolTip": "C:\\Users\\Jose E\\Desktop\\Prueba\\challengeBack\\challenge\\Diligencias\\Properties\\PublishProfiles\\FolderProfile.pubxml",
+              "RelativeToolTip": "Diligencias\\Properties\\PublishProfiles\\FolderProfile.pubxml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-04-04T00:01:05.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Jose E\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Jose E\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\Services\\AuthService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\Services\\AuthService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T16:33:09.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\Jose E\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\Jose E\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\Controllers\\ContactController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T08:32:32.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Jose E\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Jose E\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\Controllers\\AuthController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T16:33:39.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jose E\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\Program.cs",
+              "ToolTip": "C:\\Users\\Jose E\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T17:31:01.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Jose E\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Jose E\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\Controllers\\UserController.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\Controllers\\UserController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T08:34:16.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Jose E\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\Jose E\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\Services\\UserService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\Services\\UserService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T08:13:33.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GroupService.cs",
+              "DocumentMoniker": "C:\\Users\\Jose E\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\Services\\GroupService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\Services\\GroupService.cs",
+              "ToolTip": "C:\\Users\\Jose E\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\Services\\GroupService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\Services\\GroupService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T08:23:43.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\Jose E\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\Models\\DB\\Users.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\Models\\DB\\Users.cs",
+              "ToolTip": "C:\\Users\\Jose E\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\Models\\DB\\Users.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\Models\\DB\\Users.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T08:03:51.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GroupController.cs",
+              "DocumentMoniker": "C:\\Users\\Jose E\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\Controllers\\GroupController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\Controllers\\GroupController.cs",
+              "ToolTip": "C:\\Users\\Jose E\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\Controllers\\GroupController.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\Controllers\\GroupController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T09:30:56.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\Jose E\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\Models\\DB\\Group.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\Models\\DB\\Group.cs",
+              "ToolTip": "C:\\Users\\Jose E\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\Models\\DB\\Group.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\Models\\DB\\Group.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T08:03:26.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ContactService.cs",
+              "DocumentMoniker": "C:\\Users\\Jose E\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\Services\\ContactService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\Services\\ContactService.cs",
+              "ToolTip": "C:\\Users\\Jose E\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\Services\\ContactService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\Services\\ContactService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T08:26:13.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\Jose E\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\Models\\DB\\Contact.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\Models\\DB\\Contact.cs",
+              "ToolTip": "C:\\Users\\Jose E\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\Models\\DB\\Contact.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\Models\\DB\\Contact.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T08:03:02.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ContactGroupRelationship.cs",
+              "DocumentMoniker": "C:\\Users\\Jose E\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\Models\\DB\\ContactGroupRelationship.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\Models\\DB\\ContactGroupRelationship.cs",
+              "ToolTip": "C:\\Users\\Jose E\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\Models\\DB\\ContactGroupRelationship.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\Models\\DB\\ContactGroupRelationship.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T08:04:11.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "JwtAuthorizationFilter .cs",
+              "DocumentMoniker": "C:\\Users\\Jose E\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\Filter\\JwtAuthorizationFilter .cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\Filter\\JwtAuthorizationFilter .cs",
+              "ToolTip": "C:\\Users\\Jose E\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\Filter\\JwtAuthorizationFilter .cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\Filter\\JwtAuthorizationFilter .cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T16:39:59.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\Jose E\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\Models\\DB\\Role.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\Models\\DB\\Role.cs",
+              "ToolTip": "C:\\Users\\Jose E\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\Models\\DB\\Role.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\Models\\DB\\Role.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T08:03:39.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Jose E\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\appsettings.json",
+              "ToolTip": "C:\\Users\\Jose E\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\appsettings.json",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\appsettings.json",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-02T21:53:04.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserRoleRelationship.cs",
+              "DocumentMoniker": "C:\\Users\\Jose E\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\Models\\DB\\UserRoleRelationship.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\Models\\DB\\UserRoleRelationship.cs",
+              "ToolTip": "C:\\Users\\Jose E\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\Models\\DB\\UserRoleRelationship.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\Models\\DB\\UserRoleRelationship.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T08:04:36.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ChallengeContext.cs",
+              "DocumentMoniker": "C:\\Users\\Jose E\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\Context\\ChallengeContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\Context\\ChallengeContext.cs",
+              "ToolTip": "C:\\Users\\Jose E\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\Context\\ChallengeContext.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\Context\\ChallengeContext.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T07:55:20.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FolderProfile.pubxml",
+              "DocumentMoniker": "C:\\Users\\Jose E\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\Properties\\PublishProfiles\\FolderProfile.pubxml",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\Properties\\PublishProfiles\\FolderProfile.pubxml",
+              "ToolTip": "C:\\Users\\Jose E\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\Properties\\PublishProfiles\\FolderProfile.pubxml",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\Properties\\PublishProfiles\\FolderProfile.pubxml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-04-03T08:30:11.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Jose E\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Jose E\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\appsettings.Development.json",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\appsettings.Development.json",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-03T15:35:34.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UserGroupRelationship.cs",
+              "DocumentMoniker": "C:\\Users\\Jose E\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\Models\\DB\\UserGroupRelationship.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\Models\\DB\\UserGroupRelationship.cs",
+              "ToolTip": "C:\\Users\\Jose E\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\Models\\DB\\UserGroupRelationship.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\Models\\DB\\UserGroupRelationship.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T08:04:55.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Challenge.csproj",
+              "DocumentMoniker": "C:\\Users\\Jose E\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\Challenge.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\Challenge.csproj",
+              "ToolTip": "C:\\Users\\Jose E\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\Challenge.csproj",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\Diligencias-main\\Diligencias-main\\Diligencias backend\\Diligencias\\Diligencias\\Challenge.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-03T08:38:34.715Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

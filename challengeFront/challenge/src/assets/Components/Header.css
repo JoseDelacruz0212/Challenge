@@ -1,0 +1,48 @@
+.principal-header{
+  background-color: #2E2E38;
+  width: 100%;
+  height: 60px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  overflow: hidden;
+}
+.principal-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logout-button-container {
+  margin-right: 30px; 
+}
+
+
+.principal-header
+.logo-new{
+  width: 30px;
+  height: auto;
+  margin-right: 20px;
+  margin-left:20px;
+  margin-top: -10px;
+}
+
+.principal-header
+.titulo-header{
+  font-size: 15px;
+  color: white;
+}
+
+.principal-header
+button{
+  border: none;
+  border-radius: 2px;
+  height: 30px;
+  width: 110px;
+  margin-left: 20px;
+}
+
+.principal-header
+button:hover{
+  background-color: #B4B4B4;
+}

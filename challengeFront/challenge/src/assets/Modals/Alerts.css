@@ -1,0 +1,14 @@
+.alert-bg{
+    background-color:  transparent;
+    border: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+    z-index: 1;
+    width: 400px;
+    height: 70px;
+    border-radius: 5px;
+  }

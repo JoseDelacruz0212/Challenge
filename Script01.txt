@@ -1,0 +1,68 @@
+CREATE TABLE Contacts (
+    ID UNIQUEIDENTIFIER PRIMARY KEY DEFAULT NEWID(),
+    FirstName VARCHAR(50) NOT NULL,
+    LastName VARCHAR(50) NOT NULL,
+    PhoneNumber VARCHAR(20),
+    Email VARCHAR(100),
+    PhysicalAddress VARCHAR(255),
+    CreatedBy VARCHAR(100),
+    CreatedOn DATETIME,
+    UpdatedBy VARCHAR(100),
+    UpdatedOn DATETIME
+);
+
+CREATE TABLE Groups (
+    ID UNIQUEIDENTIFIER PRIMARY KEY DEFAULT NEWID(),
+    GroupName VARCHAR(50) NOT NULL,
+    CompanyName VARCHAR(255),
+    CreatedBy VARCHAR(100),
+    CreatedOn DATETIME,
+    UpdatedBy VARCHAR(100),
+    UpdatedOn DATETIME
+);
+
+CREATE TABLE Roles (
+    RoleId UNIQUEIDENTIFIER PRIMARY KEY DEFAULT NEWID(),
+    RoleName VARCHAR(50) NOT NULL,
+    CreatedBy VARCHAR(100),
+    CreatedOn DATETIME,
+    UpdatedBy VARCHAR(100),
+    UpdatedOn DATETIME
+);
+
+CREATE TABLE Users (
+    UserId UNIQUEIDENTIFIER PRIMARY KEY DEFAULT NEWID(),
+    Username VARCHAR(50) NOT NULL,
+    Password VARCHAR(100) NOT NULL, 
+    Email VARCHAR(100) ,
+    FullName VARCHAR(100),
+    RoleId UNIQUEIDENTIFIER,
+    CreatedBy VARCHAR(100),
+    CreatedOn DATETIME,
+    UpdatedBy VARCHAR(100),
+    UpdatedOn DATETIME,
+    FOREIGN KEY (RoleId) REFERENCES Roles(RoleId)
+);
+
+CREATE TABLE UserRoleRelationship (
+    UserId UNIQUEIDENTIFIER,
+    RoleId UNIQUEIDENTIFIER,
+    FOREIGN KEY (UserId) REFERENCES Users(UserId),
+    FOREIGN KEY (RoleId) REFERENCES Roles(RoleId),
+    PRIMARY KEY (UserId, RoleId)
+);
+
+CREATE TABLE UserGroupRelationship (
+    UserId UNIQUEIDENTIFIER,
+    GroupId UNIQUEIDENTIFIER,
+    FOREIGN KEY (UserId) REFERENCES Users(UserId),
+    FOREIGN KEY (GroupId) REFERENCES Groups(ID),
+    PRIMARY KEY (UserId, GroupId)
+);
+CREATE TABLE ContactGroupRelationships (
+    ContactId UNIQUEIDENTIFIER,
+    GroupId UNIQUEIDENTIFIER,
+    FOREIGN KEY (ContactId) REFERENCES Contacts(ID),
+    FOREIGN KEY (GroupId) REFERENCES Groups(ID),
+    PRIMARY KEY (ContactId, GroupId)
+);

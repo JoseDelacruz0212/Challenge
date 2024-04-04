@@ -1,0 +1,216 @@
+D:\Personal\Proyectos\EY\Diligencias\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\appsettings.Development.json
+D:\Personal\Proyectos\EY\Diligencias\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\appsettings.json
+D:\Personal\Proyectos\EY\Diligencias\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\Diligencias.exe
+D:\Personal\Proyectos\EY\Diligencias\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\Diligencias.deps.json
+D:\Personal\Proyectos\EY\Diligencias\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\Diligencias.runtimeconfig.json
+D:\Personal\Proyectos\EY\Diligencias\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\Diligencias.dll
+D:\Personal\Proyectos\EY\Diligencias\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\Diligencias.pdb
+D:\Personal\Proyectos\EY\Diligencias\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\Humanizer.dll
+D:\Personal\Proyectos\EY\Diligencias\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Personal\Proyectos\EY\Diligencias\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Personal\Proyectos\EY\Diligencias\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Personal\Proyectos\EY\Diligencias\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Personal\Proyectos\EY\Diligencias\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Personal\Proyectos\EY\Diligencias\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Personal\Proyectos\EY\Diligencias\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Personal\Proyectos\EY\Diligencias\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Personal\Proyectos\EY\Diligencias\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Personal\Proyectos\EY\Diligencias\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Personal\Proyectos\EY\Diligencias\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Personal\Proyectos\EY\Diligencias\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Personal\Proyectos\EY\Diligencias\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Personal\Proyectos\EY\Diligencias\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Personal\Proyectos\EY\Diligencias\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Personal\Proyectos\EY\Diligencias\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Personal\Proyectos\EY\Diligencias\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Personal\Proyectos\EY\Diligencias\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Personal\Proyectos\EY\Diligencias\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Personal\Proyectos\EY\Diligencias\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Personal\Proyectos\EY\Diligencias\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Personal\Proyectos\EY\Diligencias\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Personal\Proyectos\EY\Diligencias\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Personal\Proyectos\EY\Diligencias\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Personal\Proyectos\EY\Diligencias\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Personal\Proyectos\EY\Diligencias\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Personal\Proyectos\EY\Diligencias\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Personal\Proyectos\EY\Diligencias\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Personal\Proyectos\EY\Diligencias\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Personal\Proyectos\EY\Diligencias\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Personal\Proyectos\EY\Diligencias\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Personal\Proyectos\EY\Diligencias\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Personal\Proyectos\EY\Diligencias\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Personal\Proyectos\EY\Diligencias\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Personal\Proyectos\EY\Diligencias\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Personal\Proyectos\EY\Diligencias\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Personal\Proyectos\EY\Diligencias\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Personal\Proyectos\EY\Diligencias\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Personal\Proyectos\EY\Diligencias\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Personal\Proyectos\EY\Diligencias\Diligencias backend\Diligencias\Diligencias\obj\Debug\net6.0\Diligencias.csproj.AssemblyReference.cache
+D:\Personal\Proyectos\EY\Diligencias\Diligencias backend\Diligencias\Diligencias\obj\Debug\net6.0\Diligencias.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\Proyectos\EY\Diligencias\Diligencias backend\Diligencias\Diligencias\obj\Debug\net6.0\Diligencias.AssemblyInfoInputs.cache
+D:\Personal\Proyectos\EY\Diligencias\Diligencias backend\Diligencias\Diligencias\obj\Debug\net6.0\Diligencias.AssemblyInfo.cs
+D:\Personal\Proyectos\EY\Diligencias\Diligencias backend\Diligencias\Diligencias\obj\Debug\net6.0\Diligencias.csproj.CoreCompileInputs.cache
+D:\Personal\Proyectos\EY\Diligencias\Diligencias backend\Diligencias\Diligencias\obj\Debug\net6.0\Diligencias.MvcApplicationPartsAssemblyInfo.cs
+D:\Personal\Proyectos\EY\Diligencias\Diligencias backend\Diligencias\Diligencias\obj\Debug\net6.0\Diligencias.MvcApplicationPartsAssemblyInfo.cache
+D:\Personal\Proyectos\EY\Diligencias\Diligencias backend\Diligencias\Diligencias\obj\Debug\net6.0\Diligencias.sourcelink.json
+D:\Personal\Proyectos\EY\Diligencias\Diligencias backend\Diligencias\Diligencias\obj\Debug\net6.0\staticwebassets.build.json
+D:\Personal\Proyectos\EY\Diligencias\Diligencias backend\Diligencias\Diligencias\obj\Debug\net6.0\staticwebassets.development.json
+D:\Personal\Proyectos\EY\Diligencias\Diligencias backend\Diligencias\Diligencias\obj\Debug\net6.0\staticwebassets\msbuild.Diligencias.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Personal\Proyectos\EY\Diligencias\Diligencias backend\Diligencias\Diligencias\obj\Debug\net6.0\staticwebassets\msbuild.build.Diligencias.props
+D:\Personal\Proyectos\EY\Diligencias\Diligencias backend\Diligencias\Diligencias\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Diligencias.props
+D:\Personal\Proyectos\EY\Diligencias\Diligencias backend\Diligencias\Diligencias\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Diligencias.props
+D:\Personal\Proyectos\EY\Diligencias\Diligencias backend\Diligencias\Diligencias\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Personal\Proyectos\EY\Diligencias\Diligencias backend\Diligencias\Diligencias\obj\Debug\net6.0\scopedcss\bundle\Diligencias.styles.css
+D:\Personal\Proyectos\EY\Diligencias\Diligencias backend\Diligencias\Diligencias\obj\Debug\net6.0\Diligenc.69A075F3.Up2Date
+D:\Personal\Proyectos\EY\Diligencias\Diligencias backend\Diligencias\Diligencias\obj\Debug\net6.0\Diligencias.dll
+D:\Personal\Proyectos\EY\Diligencias\Diligencias backend\Diligencias\Diligencias\obj\Debug\net6.0\refint\Diligencias.dll
+D:\Personal\Proyectos\EY\Diligencias\Diligencias backend\Diligencias\Diligencias\obj\Debug\net6.0\Diligencias.pdb
+D:\Personal\Proyectos\EY\Diligencias\Diligencias backend\Diligencias\Diligencias\obj\Debug\net6.0\Diligencias.genruntimeconfig.cache
+D:\Personal\Proyectos\EY\Diligencias\Diligencias backend\Diligencias\Diligencias\obj\Debug\net6.0\ref\Diligencias.dll
+C:\Personal\EY - Prueba técnica\Diligencias\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\release\web.config
+C:\Personal\EY - Prueba técnica\Diligencias\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\appsettings.Development.json
+C:\Personal\EY - Prueba técnica\Diligencias\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\appsettings.json
+C:\Personal\EY - Prueba técnica\Diligencias\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\release\appsettings.Development.json
+C:\Personal\EY - Prueba técnica\Diligencias\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\release\appsettings.json
+C:\Personal\EY - Prueba técnica\Diligencias\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\release\Diligencias.deps.json
+C:\Personal\EY - Prueba técnica\Diligencias\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\release\Diligencias.runtimeconfig.json
+C:\Personal\EY - Prueba técnica\Diligencias\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\Diligencias.exe
+C:\Personal\EY - Prueba técnica\Diligencias\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\Diligencias.deps.json
+C:\Personal\EY - Prueba técnica\Diligencias\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\Diligencias.runtimeconfig.json
+C:\Personal\EY - Prueba técnica\Diligencias\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\Diligencias.dll
+C:\Personal\EY - Prueba técnica\Diligencias\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\Diligencias.pdb
+C:\Personal\EY - Prueba técnica\Diligencias\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\Humanizer.dll
+C:\Personal\EY - Prueba técnica\Diligencias\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Personal\EY - Prueba técnica\Diligencias\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Personal\EY - Prueba técnica\Diligencias\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Personal\EY - Prueba técnica\Diligencias\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Personal\EY - Prueba técnica\Diligencias\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Personal\EY - Prueba técnica\Diligencias\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Personal\EY - Prueba técnica\Diligencias\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Personal\EY - Prueba técnica\Diligencias\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Personal\EY - Prueba técnica\Diligencias\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Personal\EY - Prueba técnica\Diligencias\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Personal\EY - Prueba técnica\Diligencias\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Personal\EY - Prueba técnica\Diligencias\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Personal\EY - Prueba técnica\Diligencias\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Personal\EY - Prueba técnica\Diligencias\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Personal\EY - Prueba técnica\Diligencias\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Personal\EY - Prueba técnica\Diligencias\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Personal\EY - Prueba técnica\Diligencias\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Personal\EY - Prueba técnica\Diligencias\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Personal\EY - Prueba técnica\Diligencias\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Personal\EY - Prueba técnica\Diligencias\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Personal\EY - Prueba técnica\Diligencias\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Personal\EY - Prueba técnica\Diligencias\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Personal\EY - Prueba técnica\Diligencias\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Personal\EY - Prueba técnica\Diligencias\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Personal\EY - Prueba técnica\Diligencias\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Personal\EY - Prueba técnica\Diligencias\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Personal\EY - Prueba técnica\Diligencias\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Personal\EY - Prueba técnica\Diligencias\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Personal\EY - Prueba técnica\Diligencias\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Personal\EY - Prueba técnica\Diligencias\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Personal\EY - Prueba técnica\Diligencias\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Personal\EY - Prueba técnica\Diligencias\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Personal\EY - Prueba técnica\Diligencias\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Personal\EY - Prueba técnica\Diligencias\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Personal\EY - Prueba técnica\Diligencias\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Personal\EY - Prueba técnica\Diligencias\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Personal\EY - Prueba técnica\Diligencias\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Personal\EY - Prueba técnica\Diligencias\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Personal\EY - Prueba técnica\Diligencias\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Personal\EY - Prueba técnica\Diligencias\Diligencias backend\Diligencias\Diligencias\obj\Debug\net6.0\Diligencias.csproj.AssemblyReference.cache
+C:\Personal\EY - Prueba técnica\Diligencias\Diligencias backend\Diligencias\Diligencias\obj\Debug\net6.0\Diligencias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal\EY - Prueba técnica\Diligencias\Diligencias backend\Diligencias\Diligencias\obj\Debug\net6.0\Diligencias.AssemblyInfoInputs.cache
+C:\Personal\EY - Prueba técnica\Diligencias\Diligencias backend\Diligencias\Diligencias\obj\Debug\net6.0\Diligencias.AssemblyInfo.cs
+C:\Personal\EY - Prueba técnica\Diligencias\Diligencias backend\Diligencias\Diligencias\obj\Debug\net6.0\Diligencias.csproj.CoreCompileInputs.cache
+C:\Personal\EY - Prueba técnica\Diligencias\Diligencias backend\Diligencias\Diligencias\obj\Debug\net6.0\Diligencias.MvcApplicationPartsAssemblyInfo.cs
+C:\Personal\EY - Prueba técnica\Diligencias\Diligencias backend\Diligencias\Diligencias\obj\Debug\net6.0\Diligencias.MvcApplicationPartsAssemblyInfo.cache
+C:\Personal\EY - Prueba técnica\Diligencias\Diligencias backend\Diligencias\Diligencias\obj\Debug\net6.0\Diligencias.sourcelink.json
+C:\Personal\EY - Prueba técnica\Diligencias\Diligencias backend\Diligencias\Diligencias\obj\Debug\net6.0\staticwebassets.build.json
+C:\Personal\EY - Prueba técnica\Diligencias\Diligencias backend\Diligencias\Diligencias\obj\Debug\net6.0\staticwebassets.development.json
+C:\Personal\EY - Prueba técnica\Diligencias\Diligencias backend\Diligencias\Diligencias\obj\Debug\net6.0\staticwebassets\msbuild.Diligencias.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Personal\EY - Prueba técnica\Diligencias\Diligencias backend\Diligencias\Diligencias\obj\Debug\net6.0\staticwebassets\msbuild.build.Diligencias.props
+C:\Personal\EY - Prueba técnica\Diligencias\Diligencias backend\Diligencias\Diligencias\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Diligencias.props
+C:\Personal\EY - Prueba técnica\Diligencias\Diligencias backend\Diligencias\Diligencias\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Diligencias.props
+C:\Personal\EY - Prueba técnica\Diligencias\Diligencias backend\Diligencias\Diligencias\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Personal\EY - Prueba técnica\Diligencias\Diligencias backend\Diligencias\Diligencias\obj\Debug\net6.0\scopedcss\bundle\Diligencias.styles.css
+C:\Personal\EY - Prueba técnica\Diligencias\Diligencias backend\Diligencias\Diligencias\obj\Debug\net6.0\Diligenc.69A075F3.Up2Date
+C:\Personal\EY - Prueba técnica\Diligencias\Diligencias backend\Diligencias\Diligencias\obj\Debug\net6.0\Diligencias.dll
+C:\Personal\EY - Prueba técnica\Diligencias\Diligencias backend\Diligencias\Diligencias\obj\Debug\net6.0\refint\Diligencias.dll
+C:\Personal\EY - Prueba técnica\Diligencias\Diligencias backend\Diligencias\Diligencias\obj\Debug\net6.0\Diligencias.pdb
+C:\Personal\EY - Prueba técnica\Diligencias\Diligencias backend\Diligencias\Diligencias\obj\Debug\net6.0\Diligencias.genruntimeconfig.cache
+C:\Personal\EY - Prueba técnica\Diligencias\Diligencias backend\Diligencias\Diligencias\obj\Debug\net6.0\ref\Diligencias.dll
+C:\Users\Jose E\Downloads\Diligencias-main\Diligencias-main\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Jose E\Downloads\Diligencias-main\Diligencias-main\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\appsettings.json
+C:\Users\Jose E\Downloads\Diligencias-main\Diligencias-main\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\release\web.config
+C:\Users\Jose E\Downloads\Diligencias-main\Diligencias-main\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\release\appsettings.Development.json
+C:\Users\Jose E\Downloads\Diligencias-main\Diligencias-main\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\release\appsettings.json
+C:\Users\Jose E\Downloads\Diligencias-main\Diligencias-main\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\release\Diligencias.deps.json
+C:\Users\Jose E\Downloads\Diligencias-main\Diligencias-main\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\release\Diligencias.runtimeconfig.json
+C:\Users\Jose E\Downloads\Diligencias-main\Diligencias-main\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\Diligencias.exe
+C:\Users\Jose E\Downloads\Diligencias-main\Diligencias-main\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\Diligencias.deps.json
+C:\Users\Jose E\Downloads\Diligencias-main\Diligencias-main\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\Diligencias.runtimeconfig.json
+C:\Users\Jose E\Downloads\Diligencias-main\Diligencias-main\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\Diligencias.dll
+C:\Users\Jose E\Downloads\Diligencias-main\Diligencias-main\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\Diligencias.pdb
+C:\Users\Jose E\Downloads\Diligencias-main\Diligencias-main\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Jose E\Downloads\Diligencias-main\Diligencias-main\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Jose E\Downloads\Diligencias-main\Diligencias-main\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Jose E\Downloads\Diligencias-main\Diligencias-main\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Jose E\Downloads\Diligencias-main\Diligencias-main\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Jose E\Downloads\Diligencias-main\Diligencias-main\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Jose E\Downloads\Diligencias-main\Diligencias-main\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Jose E\Downloads\Diligencias-main\Diligencias-main\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Jose E\Downloads\Diligencias-main\Diligencias-main\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Jose E\Downloads\Diligencias-main\Diligencias-main\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Jose E\Downloads\Diligencias-main\Diligencias-main\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Jose E\Downloads\Diligencias-main\Diligencias-main\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Jose E\Downloads\Diligencias-main\Diligencias-main\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Jose E\Downloads\Diligencias-main\Diligencias-main\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Jose E\Downloads\Diligencias-main\Diligencias-main\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Jose E\Downloads\Diligencias-main\Diligencias-main\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Jose E\Downloads\Diligencias-main\Diligencias-main\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Jose E\Downloads\Diligencias-main\Diligencias-main\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Jose E\Downloads\Diligencias-main\Diligencias-main\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Jose E\Downloads\Diligencias-main\Diligencias-main\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Jose E\Downloads\Diligencias-main\Diligencias-main\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Jose E\Downloads\Diligencias-main\Diligencias-main\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Jose E\Downloads\Diligencias-main\Diligencias-main\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Jose E\Downloads\Diligencias-main\Diligencias-main\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Jose E\Downloads\Diligencias-main\Diligencias-main\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Jose E\Downloads\Diligencias-main\Diligencias-main\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jose E\Downloads\Diligencias-main\Diligencias-main\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Jose E\Downloads\Diligencias-main\Diligencias-main\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Jose E\Downloads\Diligencias-main\Diligencias-main\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jose E\Downloads\Diligencias-main\Diligencias-main\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jose E\Downloads\Diligencias-main\Diligencias-main\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jose E\Downloads\Diligencias-main\Diligencias-main\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jose E\Downloads\Diligencias-main\Diligencias-main\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jose E\Downloads\Diligencias-main\Diligencias-main\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jose E\Downloads\Diligencias-main\Diligencias-main\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Jose E\Downloads\Diligencias-main\Diligencias-main\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Jose E\Downloads\Diligencias-main\Diligencias-main\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Jose E\Downloads\Diligencias-main\Diligencias-main\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Jose E\Downloads\Diligencias-main\Diligencias-main\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jose E\Downloads\Diligencias-main\Diligencias-main\Diligencias backend\Diligencias\Diligencias\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Jose E\Downloads\Diligencias-main\Diligencias-main\Diligencias backend\Diligencias\Diligencias\obj\Debug\net6.0\Diligencias.csproj.AssemblyReference.cache
+C:\Users\Jose E\Downloads\Diligencias-main\Diligencias-main\Diligencias backend\Diligencias\Diligencias\obj\Debug\net6.0\Diligencias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jose E\Downloads\Diligencias-main\Diligencias-main\Diligencias backend\Diligencias\Diligencias\obj\Debug\net6.0\Diligencias.AssemblyInfoInputs.cache
+C:\Users\Jose E\Downloads\Diligencias-main\Diligencias-main\Diligencias backend\Diligencias\Diligencias\obj\Debug\net6.0\Diligencias.AssemblyInfo.cs
+C:\Users\Jose E\Downloads\Diligencias-main\Diligencias-main\Diligencias backend\Diligencias\Diligencias\obj\Debug\net6.0\Diligencias.csproj.CoreCompileInputs.cache
+C:\Users\Jose E\Downloads\Diligencias-main\Diligencias-main\Diligencias backend\Diligencias\Diligencias\obj\Debug\net6.0\Diligencias.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Jose E\Downloads\Diligencias-main\Diligencias-main\Diligencias backend\Diligencias\Diligencias\obj\Debug\net6.0\Diligencias.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jose E\Downloads\Diligencias-main\Diligencias-main\Diligencias backend\Diligencias\Diligencias\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Jose E\Downloads\Diligencias-main\Diligencias-main\Diligencias backend\Diligencias\Diligencias\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Jose E\Downloads\Diligencias-main\Diligencias-main\Diligencias backend\Diligencias\Diligencias\obj\Debug\net6.0\staticwebassets\msbuild.Diligencias.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Jose E\Downloads\Diligencias-main\Diligencias-main\Diligencias backend\Diligencias\Diligencias\obj\Debug\net6.0\staticwebassets\msbuild.build.Diligencias.props
+C:\Users\Jose E\Downloads\Diligencias-main\Diligencias-main\Diligencias backend\Diligencias\Diligencias\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Diligencias.props
+C:\Users\Jose E\Downloads\Diligencias-main\Diligencias-main\Diligencias backend\Diligencias\Diligencias\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Diligencias.props
+C:\Users\Jose E\Downloads\Diligencias-main\Diligencias-main\Diligencias backend\Diligencias\Diligencias\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Jose E\Downloads\Diligencias-main\Diligencias-main\Diligencias backend\Diligencias\Diligencias\obj\Debug\net6.0\scopedcss\bundle\Diligencias.styles.css
+C:\Users\Jose E\Downloads\Diligencias-main\Diligencias-main\Diligencias backend\Diligencias\Diligencias\obj\Debug\net6.0\Diligenc.69A075F3.Up2Date
+C:\Users\Jose E\Downloads\Diligencias-main\Diligencias-main\Diligencias backend\Diligencias\Diligencias\obj\Debug\net6.0\Diligencias.dll
+C:\Users\Jose E\Downloads\Diligencias-main\Diligencias-main\Diligencias backend\Diligencias\Diligencias\obj\Debug\net6.0\refint\Diligencias.dll
+C:\Users\Jose E\Downloads\Diligencias-main\Diligencias-main\Diligencias backend\Diligencias\Diligencias\obj\Debug\net6.0\Diligencias.pdb
+C:\Users\Jose E\Downloads\Diligencias-main\Diligencias-main\Diligencias backend\Diligencias\Diligencias\obj\Debug\net6.0\Diligencias.genruntimeconfig.cache
+C:\Users\Jose E\Downloads\Diligencias-main\Diligencias-main\Diligencias backend\Diligencias\Diligencias\obj\Debug\net6.0\ref\Diligencias.dll

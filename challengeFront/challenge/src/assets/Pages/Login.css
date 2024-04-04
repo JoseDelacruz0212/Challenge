@@ -1,0 +1,252 @@
+.mainbox-login{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+    background-color: #A9BCD0;
+    background: linear-gradient(to right, #e2e2e2, #A9BCD0);
+}
+
+.mainbox-login
+.main-container{
+    border: none;
+    width:900px;
+    height:500px;
+    overflow: hidden;
+    position: relative;
+    border-radius: 30px;
+    background-color: white;
+}
+.btn-signup {
+    position: relative;
+    top: -5%; /* Puedes ajustar el valor según sea necesario */
+  }
+  
+.mainbox-login .main-container
+.form-container{
+    top: 0;
+    height: 100%;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    transition: all 0.6s ease-in-out;
+}
+
+.mainbox-login .main-container
+.form-container form{
+    width: 100%;
+    background-color: white;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    box-sizing: border-box;
+    padding: 0 30px;
+}
+
+.mainbox-login .main-container .form-container form
+.title-form{
+    display: flex;
+    font-size: 25px;
+    color: #373F51;
+    align-self: center;
+    margin: 0 0 20px 0;
+}
+
+.mainbox-login .main-container .form-container
+.mono-login{
+    width: 150px;
+    height: auto;
+    margin-bottom: 20px;
+}
+.mono-signUp{
+    width: 150px;
+    height: auto;
+    margin-bottom: 5px;
+}
+.mainbox-login .main-container .form-container form
+.label-form{
+    font-size: 13px;
+    color: #787575;
+    align-self: flex-start;
+    margin: 0 0 5px 0;
+    border:none;
+}
+
+.mainbox-login .main-container .form-container form
+input{
+    border: 1px solid #9C9C9C;
+    border-radius: 8px;
+    width: 100%;
+    height: 30px;
+    margin: 0 0 20px 0;
+    text-indent: 10px;
+    font-size: 15px;
+}
+
+.mainbox-login .main-container .form-container form
+button{
+    border: none;
+    background-color: #373F51;
+    width: 180px;
+    height: 40px;
+    color: white;
+    border-radius: 20px;
+    margin: 20px 0 0 0;
+    font-size: 15px;
+    transition: transform 80ms ease-in;
+    cursor: pointer;
+}
+
+.mainbox-login .main-container .form-container form
+button:active{
+    transform: scale(0.95);
+}
+
+.mainbox-login .main-container
+.sign-in{
+    z-index: 2;
+    width: 50%;
+    left: 0;
+}
+
+.mainbox-login
+.main-container.active .sign-in{
+    transform: translateX(100%);
+}
+
+.mainbox-login .main-container
+.sign-up{
+    z-index: 1;
+    width: 50%;
+    left: 0;
+    opacity: 0;
+}
+
+.mainbox-login
+.main-container.active .sign-up{
+    transform: translateX(100%);
+    opacity: 1;
+    z-index: 5;
+    animation: move 0.6s ease;
+}
+
+@keyframes move{
+    0%, 49.99%{
+        opacity: 0;
+        z-index:1;
+    }
+    50%, 100%{
+        opacity: 1;
+        z-index: 5;
+    }
+}
+
+.mainbox-login .main-container
+.overlay-container{
+    position: absolute;
+    top: 0;
+    left: 50%;
+    width: 50%;
+    height: 100%;
+    overflow: hidden;
+    transition: all 0.6s ease-in-out;
+    z-index: 1000;
+}
+
+.mainbox-login
+.main-container.active .overlay-container{
+    transform:translateX(-100%);
+}
+
+.mainbox-login .main-container
+.overlay{
+    background-color: #373F51;
+    background: linear-gradient(to right, #4d5974, #373F51);;
+    height: 100%;
+    width: 200%;
+    color: white;
+    position: relative;
+    left: -100%;
+    transform: translateX(0);
+    transition: all 0.6s ease-in-out;
+}
+
+.mainbox-login .main-container.active
+.overlay{
+    transform: translateX(50%);
+}
+
+.mainbox-login .main-container
+.overlay-panel{
+    position: absolute;
+    width: 50%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    top: 0;
+    padding: 0 30px;
+    transform: translateX(0);
+    transition: all 0.6s ease-in-out;
+    box-sizing: border-box;
+}
+
+.mainbox-login .main-container .overlay-panel
+h1{
+    margin: 0;
+}
+
+.mainbox-login .main-container .overlay-panel
+p{
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.mainbox-login .main-container .overlay-panel
+button{
+    border: none;
+    background-color: white;
+    width: 180px;
+    height: 40px;
+    color: #373F51;
+    border-radius: 20px;
+    font-size: 15px;
+    transition: all 80ms ease-in;
+    cursor: pointer;
+}
+
+.mainbox-login .main-container .overlay-panel
+button:active{
+    transform: scale(0.95);
+}
+
+.mainbox-login .main-container
+.overlay-left{
+    transform: translateX(-200%);
+}
+
+.mainbox-login .main-container.active
+.overlay-left{
+    transform: translateX(0);
+}
+
+.mainbox-login .main-container
+.overlay-right{
+    right: 0;
+    transform: translateX(0);
+}
+
+.mainbox-login .main-container.active
+.overlay-right{
+    transform: translateX(200%);
+}

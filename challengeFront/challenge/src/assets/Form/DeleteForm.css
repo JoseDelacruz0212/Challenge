@@ -1,0 +1,65 @@
+.principal-Delete{
+  padding: 20px;
+  width: 350px;
+  height: 350px;
+  background-color: white;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.principal-Delete
+.logo-Warning{
+  width: 50px;
+  height: auto;
+}
+
+.principal-Delete
+h2{
+  width:90%;
+  font-size: 20px;
+  text-align: center;
+  margin: 10px 0 5px 0;
+}
+
+.principal-Delete
+p{
+  width:80%;
+  font-size: 15px;
+  text-align: center;
+  margin: 0 0 20px 0;
+}
+
+.principal-Delete
+button{
+  width: 100px;
+  border: none;
+  height: 40px;
+  margin-top: 10px;
+  border-radius: 10px;
+}
+
+.principal-Delete
+button.confirm{
+  color: white;
+  background-color: #2E2E38;
+}
+.principal-Delete
+button.confirm:hover{
+  background-color: #9d9dab;
+}
+
+.principal-Delete
+button.cancel{
+  color: #2E2E38;
+  background-color: white;
+  border: 1px solid #2E2E38;
+}
+.principal-Delete
+button.cancel:hover{
+  background-color: #9d9dab;
+  border: 1px solid #9d9dab;
+  color: white;
+}
